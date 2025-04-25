@@ -1,9 +1,9 @@
-preview
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amandeepanmol&label=Profile%20views&color=0e75b6&style=flat" alt="amandeepanmol" /> </p>
+
 <h1 align="center">Hi 👋, I'm Amandeep Singh</h1>
 <h3 align="middle">Software Engineer | Problem Solver | Technology Enthusiast </h3> 
 <h4 align="center">Greetings! 👋 I'm a dedicated Software Engineer, specializing in Software Solutions, Architecture, Design, & Development.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amandeepanmol&label=Profile%20views&color=0e75b6&style=flat" alt="amandeepanmol" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amandeepanmol" alt="amandeepanmol" /></a> </p>
 
